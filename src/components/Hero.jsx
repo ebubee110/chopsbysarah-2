@@ -43,7 +43,7 @@ function Hero() {
       <div className=" px-5 flex justify-center  items-center flex-1 lg:items-start">
         {' '}
         <img
-          src="./public/Images/Hero-pic.jpg"
+          src="./Images/Hero-pic.jpg"
           alt="foods"
           className="flex justify-center items-center rounded-4xl mt-0 w-full h-96 lg:mt-0  lg:h-96 object-cover "
         />

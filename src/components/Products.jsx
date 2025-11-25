@@ -5,73 +5,73 @@ const products = [
     name: 'Burger',
     description:
       'Juicy, flavorful, and packed with fresh ingredients, our burger is the perfect bite for real food lovers.',
-    img: './public/Images/Burger.jpg',
+    img: '/Images/Burger.jpg', // no ./public
   },
   {
     name: 'Meat Pie',
     description:
       'Flaky, buttery crust filled with seasoned meat and veggies — homemade and satisfying in every bite.',
-    img: './public/Images/Meat Pie.jpg',
+    img: '/Images/Meat Pie.jpg',
   },
   {
     name: 'Pastries',
     description:
       'Freshly baked pastries with irresistible flavors — perfect for tea time, breakfast, or anytime cravings',
-    img: './public/Images/Pasties.jpg',
+    img: '/Images/Pasties.jpg',
   },
   {
     name: 'Finger Foods',
     description:
       'Crispy, delicious, and perfect for sharing — our finger foods will keep you snacking happily!',
-    img: './public/Images/Finger foods.jpg',
+    img: '/Images/Finger foods.jpg',
   },
   {
     name: 'Breakfast Options',
     description:
       'Start your day right with our freshly-made breakfast delights — tasty, energizing, and prepared with love every morning',
-    img: './public/Images/Breakfast options.jpg',
+    img: '/Images/Breakfast options.jpg',
   },
   {
     name: 'Cake',
     description:
       'Soft, moist, and heavenly! Our cakes are made fresh with premium ingredients for every occasion and celebration.',
-    img: './public/Images/Cake.jpg',
+    img: '/Images/Cake.jpg',
   },
   {
     name: 'Tigernut Drinks',
     description:
       'Natural, refreshing tigernut drink — sweet, healthy, and preservative-free for a nourishing taste.',
-    img: './public/Images/Tingernut drink.jpg',
+    img: '/Images/Tingernut drink.jpg',
   },
   {
     name: 'Small Chops',
     description:
       'Crispy small chops platter filled with tasty bites — ideal for parties, events, or personal enjoyment.',
-    img: './public/Images/Small Chops .jpg',
+    img: '/Images/Small Chops .jpg',
   },
   {
     name: 'Goat Curry Sauce',
     description:
       'Tender goat meat simmered in rich curry spices — packed with flavor and perfect with rice or pasta.',
-    img: './public/Images/Goat curry sauce.jpg',
+    img: '/Images/Goat curry sauce.jpg',
   },
   {
     name: 'Dirty Chinese Rice',
     description:
       'A rich, flavorful Chinese-style rice stir-fried with veggies, proteins, and spices for that authentic restaurant taste.',
-    img: './public/Images/Dirty Chinese rice and whole grilled chicken.jpg',
+    img: '/Images/Dirty-Chinese-rice.jpg',
   },
   {
     name: 'Special Coconut Rice',
     description:
       'Aromatic coconut rice cooked with fresh spices and flavors — creamy, delicious, and unforgettable.',
-    img: './public/Images/Special coconut rice.jpg',
+    img: '/Images/Special coconut rice.jpg',
   },
   {
     name: 'Parfait',
     description:
       'Layers of creamy yoghurt, fresh fruits, and crunchy granola—our parfait is a perfect healthy treat for breakfast or anytime cravings',
-    img: './public/Images/Parfait.jpg',
+    img: '/Images/Parfait.jpg',
   },
 ];
 

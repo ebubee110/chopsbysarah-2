@@ -87,7 +87,7 @@ const About = () => {
 
           <div className="rounded-4xl mb-4 shadow-2xl bg-red-700  flex justify-center ">
             <img
-              src="./public/Images/Aunty Sarah .jpg"
+              src="./Images/Aunty Sarah .jpg"
               alt="Aunty Sarah"
               className="rounded-4xl w-92 h-92 border-4 flex-4"
             />
